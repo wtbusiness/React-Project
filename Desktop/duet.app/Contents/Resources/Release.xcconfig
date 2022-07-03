@@ -1,0 +1,14 @@
+//
+//  Release.xcconfig
+//  duet
+//
+//  Created by Cedric Pansky on 8/5/19.
+//  Copyright © 2019 Duet, Inc. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-duet/Pods-duet.release.xcconfig"
+
+PRODUCT_BUNDLE_ID=com.kairos.duetMac
