@@ -1,0 +1,31 @@
+body {
+    background-color: yellow;
+  }
+  h1 {
+    color: orange;
+  }
+  p {
+    color: rgba(188, 124, 5, 0.578);
+  }
+  h2 {
+    color: blue;
+  }
+  .start_header {
+    color: red;
+  }
+  .end_header {
+    color: silver;
+    font-size: 40px;
+    text-align: left;
+  }
+  #unique_item {
+    color: blue;
+  }
+  #list-item-1 {
+    border: 3px solid black;
+    border-left: 3px solid black;
+    width: 220px;
+    height: 65px;
+    background-color: white;
+    color: rgb(230, 92, 230);
+  }
