@@ -1,0 +1,60 @@
+.sneaker-item {
+  margin: 1rem 0;
+}
+
+.sneaker-item__content {
+  padding: 0;
+}
+
+.sneaker-item__info {
+  padding: 1rem;
+  text-align: center;
+}
+
+.sneaker-item__image {
+  width: 100%;
+  height: 12.5rem;
+  margin-right: 1.5rem;
+}
+
+.sneaker-item__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sneaker-item__info h2,
+.sneaker-item__info h3,
+.sneaker-item__info p {
+  margin: 0 0 0.5rem 0;
+}
+
+.sneaker-item__actions {
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+.sneaker-item__modal-content {
+  padding: 0;
+}
+
+.sneaker-item__modal-actions {
+  text-align: right;
+}
+
+.sneaker-item__actions button,
+.sneaker-item__actions a {
+  margin: 0.5rem;
+}
+
+.map-container {
+  height: 15rem;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .sneaker-item__image {
+    height: 20rem;
+  } 
+}
